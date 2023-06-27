@@ -13,4 +13,18 @@ Datasets used in the project were obtained from publications:
 ### Notebooks
 Repository contains Jupyter notebooks, providing step-by-step explaination of implementation process and obtained results.
 
-###
+### Dependencies
+The project code and notebooks have dependencies on the following libraries and frameworks:
+* TensorFlow
+* PyTorch
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+Ensure that you have the required dependencies installed in your environment to run the code successfully.
+
+### License
+The code and datasets in this repository are provided under the MIT License. You are free to use, modify, and distribute the code and datasets for academic, research, or personal purposes.
+
+If you use this code or datasets in your work, we kindly request that you cite the original project repository and give appropriate credit.
