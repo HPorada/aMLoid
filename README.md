@@ -16,6 +16,7 @@ Repository contains Jupyter notebooks, providing step-by-step explaination of im
 ### Dependencies
 The project code and notebooks have dependencies on the following libraries and frameworks:
 * TensorFlow
+* Keras
 * PyTorch
 * NumPy
 * Pandas
